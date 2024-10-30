@@ -1,0 +1,36 @@
+.imageswp-button {
+	border-color: #1ba11b !important;
+	color: #1ba11b !important;
+}
+.imageswp-ajax-loader-api, .imageswp-ajax-loader-wp {
+	display: none;
+	text-align: center;
+}
+.doing-api .imageswp-ajax-loader-api {
+	display: block;
+}
+.doing-ajax .imageswp-ajax-loader-wp {
+	display: block;
+}
+.imageswp-wrap textarea {
+	width: 100%;
+	height: 100px;
+}
+.imageswp-fieldset {
+	margin-bottom: 10px;
+}
+.imageswp-loader {
+	margin: 0 auto;
+	width: 30px;
+	aspect-ratio: 1;
+	border-radius: 50%;
+	border: 8px solid lightblue;
+	border-right-color: orange;
+	animation: l2 1s infinite linear;
+}
+.imageswp-image {
+	display: block;
+	width: 90%;
+	margin: 0 auto;
+}
+@keyframes l2 {to{transform: rotate(1turn)}}

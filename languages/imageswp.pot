@@ -1,0 +1,73 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: imageswp\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-01 02:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: imageswp"
+
+#: view/options.php:10
+msgid "API Key"
+msgstr ""
+
+#: class/class-ajax.php:30
+msgid "Empty image URL"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Free Ai Image Generator in WordPress! Create 100% unique Ai Images inside "
+"Wordpress - Free Ai Photo Generator. Works with the Media Library, Gutenberg,"
+" and other popular page builders. Just grab a free api key and generate ai "
+"images."
+msgstr ""
+
+#: view/thickbox-btn.php:11
+msgid "Generate Image"
+msgstr ""
+
+#: view/thickbox-btn.php:2 view/thickbox-btn.php:5
+msgid "Generate image with imageswp"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.imageswp.com"
+msgstr ""
+
+#. Name of the plugin
+#. Author of the plugin
+#: class/class-admin.php:33 class/class-admin.php:34
+msgid "imageswp"
+msgstr ""
+
+#: view/options.php:4
+msgid "imageswp - Options"
+msgstr ""
+
+#: class/class-admin.php:57
+msgid "Import this image"
+msgstr ""
+
+#: class/class-ajax.php:26
+msgid "Invalid request"
+msgstr ""
+
+#: class/class-admin.php:56
+msgid "Network/Server error"
+msgstr ""
+
+#: view/thickbox-btn.php:8
+msgid ""
+"Your prompt here, e.g: A woman sitting in a luxurious high-rise apartment "
+"overlooking the Nile River in Egypt"
+msgstr ""
